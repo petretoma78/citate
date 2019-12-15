@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('assets/nature-319.jpg') no-repeat center center fixed;
+  background-size: 100% 100%;
+  font-size: 90%;
+}
+.citat {
+  font-family: Merriweather, sans-serif;
+  font-size:3vw;
+  text-transform: uppercase;
+  color:darkorange;
+}
+
+.mesaj {
+  padding-top: 70px;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.autor {
+  font-family: Lora, serif;
+  font-size:2vw;
+  font-style: italic;
+  color: darkgoldenrod;
+}
